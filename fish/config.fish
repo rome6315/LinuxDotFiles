@@ -56,4 +56,4 @@ if status is-interactive
     bind '$' __history_previous_command_arguments
   end
   ##END OF ADDING !! AND !$
-e
+end
